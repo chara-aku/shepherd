@@ -1,0 +1,9 @@
+.box {
+	width: 50vw;
+	height: 400px;
+	background-color: grey 
+}
+
+.bg-image {
+	background-image: url("images/codetrain.jpg");
+}
